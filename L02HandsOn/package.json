@@ -1,0 +1,11 @@
+{
+  "name": "lesson-two-handson",
+  "version": "1.0.0",
+  "description": "lesson 02 hands on for the Angular course",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc && node index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
