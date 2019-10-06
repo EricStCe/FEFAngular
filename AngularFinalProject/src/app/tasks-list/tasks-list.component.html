@@ -1,0 +1,11 @@
+<div id="taskList">
+  <h2>Tasks List</h2>
+  <ol>
+    <li  *ngFor=" let task of tasks">{{task.name}}
+      <button class="delButton btn" (click)="deleteTask(task.id)">x</button>
+      <a [routerLink]="['/edit', task.id]">
+      <button class="btn">View/Edit</button>
+      </a>
+    </li>
+  </ol>
+</div>

@@ -1,0 +1,7 @@
+#taskList {
+  text-align: center;
+}
+#taskList ul li{
+  width: fit-content;
+  margin: auto;
+}
