@@ -1,11 +1,11 @@
 {
   "tasks": [
     {
-      "id": 1,
-      "name": "walk the dog",
-      "itemsNeeded": "sponge",
-      "timeToComplete": "1hrs",
-      "description": "wash all dishes in the sink"
+      "name": "Look for Your shoes",
+      "itemsNeeded": "Glasses",
+      "timeToComplete": "2hr",
+      "description": "Look for your shoes in your room",
+      "id": 2
     }
   ]
 }
